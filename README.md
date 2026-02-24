@@ -20,3 +20,4 @@ Esta es una lista del orden recomendado para realizar los ejercicios.
 
 ## Checks Actions
 [![Pruebas Python](https://github.com/ivangm-arch/Ejercicios-clase-2-Pontia/actions/workflows/04_tests.yml/badge.svg)](https://github.com/ivangm-arch/Ejercicios-clase-2-Pontia/actions/workflows/04_tests.yml)
+[![CodeQL](https://github.com/ivangm-arch/Ejercicios-clase-2-Pontia/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/ivangm-arch/Ejercicios-clase-2-Pontia/actions/workflows/github-code-scanning/codeql)
