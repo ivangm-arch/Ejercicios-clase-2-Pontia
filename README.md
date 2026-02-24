@@ -19,4 +19,4 @@ Esta es una lista del orden recomendado para realizar los ejercicios.
 - [07. Integración de GitHub Actions con Discord](./ejercicios/08.Discord_webhook/README.md)
 
 ## Checks Actions
-[![Notificar Discord](https://github.com/ivangm-arch/Ejercicios-clase-2-Pontia/actions/workflows/07_discord.yml/badge.svg)](https://github.com/ivangm-arch/Ejercicios-clase-2-Pontia/actions/workflows/07_discord.yml)
+[![Pruebas Python](https://github.com/ivangm-arch/Ejercicios-clase-2-Pontia/actions/workflows/04_tests.yml/badge.svg)](https://github.com/ivangm-arch/Ejercicios-clase-2-Pontia/actions/workflows/04_tests.yml)
